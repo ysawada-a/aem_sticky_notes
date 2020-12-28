@@ -1,2 +1,5 @@
-# Items in OSGi Console of AEM
+# AEM Sticky Notes
 
+Notes on the pages in AEM
+
+ 
