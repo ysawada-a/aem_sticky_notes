@@ -2,10 +2,10 @@
 
 ## Where
 
-Navigation > Assets
-http://server:port/assets
+- Navigation > Assets
+- http://server:port/assets
 
 ## What
 
-Store/Organize/Publish digital assets.
+- Store/Organize/Publish digital assets.
 

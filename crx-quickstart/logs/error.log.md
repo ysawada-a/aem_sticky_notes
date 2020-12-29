@@ -2,10 +2,10 @@
 
 ## Where
 
-crx-quickstart/logs/error.log
+- crx-quickstart/logs/error.log
 
 ## What
 
-Primary log file of AEM
+- The primary log file of AEM
 
 

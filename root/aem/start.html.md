@@ -2,10 +2,12 @@
 
 ## Where
 
-http://server:port/aem/start.html
+- http://server:port/aem/start.html
+- Also http://server:port redirects here on author instances
 
-On an author instance, this page is redirected from
-http://server:port
+## What
+
+- The portal to AEM features like Assets, Sites, Forms, etc.
 
 
 

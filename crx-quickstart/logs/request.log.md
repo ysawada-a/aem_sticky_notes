@@ -2,10 +2,10 @@
 
 ## Where
 
-crx-quickstart/logs/request.log
+- crx-quickstart/logs/request.log
 
 ## What
 
-The log file of the pairs of request and response
+- The log file of request-response pairs
 
 

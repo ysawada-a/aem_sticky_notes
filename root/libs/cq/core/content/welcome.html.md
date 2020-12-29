@@ -2,10 +2,10 @@
 
 ## Where
 
-http://server:port/welcome
+- http://server:port/welcome
 
 ## What
 
-The starting page of Classic UI.
-AEM & patch version.
+- The starting page of Classic UI.
+- AEM & patch version.
 

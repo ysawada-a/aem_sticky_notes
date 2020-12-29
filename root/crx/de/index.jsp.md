@@ -2,10 +2,10 @@
 
 ## Where
 
-Tools > General > CRXDE Lite
-http://server:port/crx/de
+- Tools > General > CRXDE Lite
+- http://server:port/crx/de
 
 ## What
 
-View/Create/Update/Delete JCR nodes
+- View/Create/Update/Delete JCR nodes
 

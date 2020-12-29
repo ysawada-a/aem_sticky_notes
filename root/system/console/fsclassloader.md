@@ -2,12 +2,12 @@
 
 ## Where
 
-OSGi console > Sling > File System Class Loader
-http://server:port/system/console/fsclassloader
+- OSGi console > Sling > File System Class Loader
+- http://server:port/system/console/fsclassloader
 
 ## What
 
-View/Download/Clear Java source and compiled class of JSP/HTL.
+- View/Download/Clear Java source and compiled class of JSP/HTL.
 
 ## References
 
